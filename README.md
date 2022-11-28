@@ -1,1 +1,1 @@
-SQL simply exercises
+SQL - simply exercises
