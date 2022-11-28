@@ -1,2 +1,1 @@
-# Manual-Tester-
-Exercises
+SQL simply exercises
